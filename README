@@ -1,0 +1,9 @@
+# DevWei
+devwei.com
+
+Godaddy quirks:
+ssh -oHostKeyAlgorithms=+ssh-dss fortytwo@devwei.com
+export GIT_SSL_NO_VERIFY=true
+
+To update the git on the server:
+devwei.com/update.php
